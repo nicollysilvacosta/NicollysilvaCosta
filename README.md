@@ -1,4 +1,5 @@
 ## Olá, bem vindo(a) ao meu perfil 😃💜
 
-**me chamo Nicolly da Silva Costa**
+**Me chamo Nicolly da Silva Costa**
 
+- Atualmente estou realizando os cursos do alura_start_
