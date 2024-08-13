@@ -2,4 +2,5 @@
 
 **Me chamo Nicolly da Silva Costa**
 
-- Atualmente estou realizando os cursos do alura_start_
+- Atualmente estou realizando os cursos do alurastart
+- Utilizando a plataforma Githb para compartilhar projetos 
